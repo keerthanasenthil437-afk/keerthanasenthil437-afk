@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ChatGPT Image May 2, 2026, 11_10_18 AM.png" width="100%">
+</p>
+
 # 👋 Hi, I'm Keerthana
 
 🎓 2nd Year Computer Science Engineering Student (Madurai, Tamil Nadu)  
