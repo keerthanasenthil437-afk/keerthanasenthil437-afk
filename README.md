@@ -13,4 +13,4 @@ Hi 👋 I'm Keerthana
 📫 Contact
 
 - Email: keerthanasenthil437@gmail.com
-- LinkedIn: linkedin.com/in/keerthanasenthilkumar6
+- LinkedIn: https://linkedin.com/in/keerthanasenthilkumar6
